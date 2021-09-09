@@ -1,6 +1,6 @@
 class Dinosaur:
-    def __init__(self):
-        self.name = ""
+    def __init__(self, name):
+        self.name = name
         self.attack_power = 0
         self.health = 0
 
