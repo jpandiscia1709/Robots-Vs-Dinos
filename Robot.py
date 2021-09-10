@@ -20,3 +20,5 @@ class Robot:
 
     def attack(self, dinosaur):
         pass
+        # createa function here for robot to attack dino
+        # function to lower health score after an attack

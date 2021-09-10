@@ -9,3 +9,5 @@ class Dinosaur:
 
     def attack(self, robot):
         pass
+        # create a function here for dino to attack robot
+        # function for losing health oints after an attack
